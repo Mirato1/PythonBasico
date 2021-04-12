@@ -1,2 +1,2 @@
-# PythonBasico
- Python Basico Platzi
+# 🐍🐍 PythonBasico 🐍🐍
+Curso Básico de Python en Platzi
